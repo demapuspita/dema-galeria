@@ -1,0 +1,28 @@
+#jumbotron {
+  padding-top: 8rem;
+  background-image: url("img/pexels-cottonbro-10284291.jpg");
+}
+
+#about {
+  padding-bottom: 2rem;
+}
+
+#testi {
+  padding-top: 1rem;
+  color: white;
+}
+
+#service {
+  padding-top: 1rem;
+}
+
+.bi {
+  color: #e5734d;
+  font-size: 2rem;
+}
+
+footer {
+  height: 3rem;
+  padding-top: 1rem;
+  background-image: url("img/pexels-cottonbro-10284291.jpg");
+}
