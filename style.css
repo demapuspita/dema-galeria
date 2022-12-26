@@ -1,19 +1,31 @@
+a:hover {
+  color: #e5734d;
+}
+
+ul li.active a {
+  background: #e5734d;
+  color: #262626;
+  border-radius: 5px;
+}
+
 #jumbotron {
   padding-top: 8rem;
   background-image: url("img/pexels-cottonbro-10284291.jpg");
 }
 
 #about {
+  padding-top: 7rem;
   padding-bottom: 2rem;
 }
 
 #testi {
-  padding-top: 1rem;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
   color: white;
 }
 
 #service {
-  padding-top: 1rem;
+  padding-top: 4rem;
 }
 
 .bi {
